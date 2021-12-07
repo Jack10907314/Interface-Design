@@ -1,0 +1,18 @@
+QMAKE_DEFAULT_INCDIRS = \
+    /home/ntustee/rpi_toolchain/tools-master/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian-x64/arm-linux-gnueabihf/include/c++/4.8.3 \
+    /home/ntustee/rpi_toolchain/tools-master/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian-x64/arm-linux-gnueabihf/include/c++/4.8.3/arm-linux-gnueabihf \
+    /home/ntustee/rpi_toolchain/tools-master/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian-x64/arm-linux-gnueabihf/include/c++/4.8.3/backward \
+    /home/ntustee/rpi_toolchain/tools-master/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian-x64/lib/gcc/arm-linux-gnueabihf/4.8.3/include \
+    /home/ntustee/rpi_toolchain/tools-master/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian-x64/lib/gcc/arm-linux-gnueabihf/4.8.3/include-fixed \
+    /home/ntustee/rpi_toolchain/tools-master/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian-x64/arm-linux-gnueabihf/include \
+    /mnt/rasp-pi-rootfs/usr/include \
+    /mnt/rasp-pi-rootfs/usr/include/arm-linux-gnueabihf
+QMAKE_DEFAULT_LIBDIRS = \
+    /home/ntustee/rpi_toolchain/tools-master/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian-x64/lib/gcc/arm-linux-gnueabihf/4.8.3 \
+    /home/ntustee/rpi_toolchain/tools-master/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian-x64/lib/gcc/arm-linux-gnueabihf \
+    /home/ntustee/rpi_toolchain/tools-master/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian-x64/lib/gcc \
+    /home/ntustee/rpi_toolchain/tools-master/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian-x64/arm-linux-gnueabihf/lib \
+    /mnt/rasp-pi-rootfs/lib/arm-linux-gnueabihf \
+    /mnt/rasp-pi-rootfs/lib \
+    /mnt/rasp-pi-rootfs/usr/lib/arm-linux-gnueabihf \
+    /mnt/rasp-pi-rootfs/usr/lib

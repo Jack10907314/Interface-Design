@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>picture/green.png</file>
+        <file>picture/proxy.jpg</file>
+        <file>picture/block.png</file>
+        <file>picture/wall.png</file>
+        <file>picture/player.png</file>
+        <file>picture/fire.png</file>
+        <file>picture/bomb.png</file>
+        <file>picture/player1_up_3.png</file>
+        <file>picture/player1_up_2.png</file>
+        <file>picture/player1_up_1.png</file>
+        <file>picture/player1_right_3.png</file>
+        <file>picture/player1_right_2.png</file>
+        <file>picture/player1_right_1.png</file>
+        <file>picture/player1_left_3.png</file>
+        <file>picture/player1_left_2.png</file>
+        <file>picture/player1_left_1.png</file>
+        <file>picture/player1_down_3.png</file>
+        <file>picture/player1_down_2.png</file>
+        <file>picture/player1_down_1.png</file>
+        <file>picture/props_speed.png</file>
+        <file>picture/props_power.png</file>
+        <file>picture/props_bomb.png</file>
+        <file>picture/grass.png</file>
+        <file>picture/win.png</file>
+        <file>picture/sad.png</file>
+        <file>picture/laugh.png</file>
+    </qresource>
+</RCC>

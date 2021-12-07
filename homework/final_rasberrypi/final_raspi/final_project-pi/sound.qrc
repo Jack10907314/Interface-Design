@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>sound/backsound.wav</file>
+        <file>sound/explosion.wav</file>
+    </qresource>
+</RCC>
